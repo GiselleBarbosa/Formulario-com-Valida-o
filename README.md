@@ -1,1 +1,3 @@
-# Formulario-com-Valida-o
+# Formulario com validação de campos
+
+Validação feita com javascript.
